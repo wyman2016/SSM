@@ -1,7 +1,14 @@
 package com.admin.ssm.dao;
 
-import org.springframework.context.annotation.ComponentScan;
+import com.admin.ssm.domain.UserInfo;
+import org.apache.ibatis.annotations.Select;
+import org.springframework.stereotype.Component;
 
-@ComponentScan
-public class UserDao {
+@Component
+public interface UserDao {
+
+    @Select("select *from users where username=#{username}")
+    public UserInfo findUserByUsername(String username) throws Exception;
+
+
 }
