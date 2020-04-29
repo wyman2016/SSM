@@ -1,3 +1,4 @@
+com/admin/ssm/domain/Product.class
+com/admin/ssm/domain/Permission.class
 com/admin/ssm/domain/Role.class
 com/admin/ssm/domain/UserInfo.class
-com/admin/ssm/domain/Permission.class
