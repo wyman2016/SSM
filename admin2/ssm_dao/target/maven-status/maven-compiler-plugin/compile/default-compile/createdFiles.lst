@@ -1,3 +1,6 @@
 com/admin/ssm/dao/IRoleDao.class
-com/admin/ssm/dao/UserDao.class
 com/admin/ssm/dao/ProductDao.class
+com/admin/ssm/dao/MemberDao.class
+com/admin/ssm/dao/ITravellerDao.class
+com/admin/ssm/dao/OrderDao.class
+com/admin/ssm/dao/UserDao.class

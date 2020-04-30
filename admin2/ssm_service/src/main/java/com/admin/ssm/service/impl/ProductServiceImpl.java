@@ -5,9 +5,11 @@ import com.admin.ssm.dao.UserDao;
 import com.admin.ssm.domain.Product;
 import com.admin.ssm.service.IProductService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
 
+@Service
 public class ProductServiceImpl implements IProductService {
 
     @Autowired
@@ -16,5 +18,10 @@ public class ProductServiceImpl implements IProductService {
     @Override
     public List<Product> findAll() throws Exception{
         return productDao.findProduct();
+    }
+
+    @Override
+    public void save(Product product) throws Exception {
+        productDao.saveProduct(product);
     }
 }

@@ -1,4 +1,7 @@
 com/admin/ssm/domain/Product.class
-com/admin/ssm/domain/Permission.class
+com/admin/ssm/domain/Member.class
+com/admin/ssm/domain/Traveller.class
 com/admin/ssm/domain/Role.class
 com/admin/ssm/domain/UserInfo.class
+com/admin/ssm/domain/Permission.class
+com/admin/ssm/domain/Order.class
