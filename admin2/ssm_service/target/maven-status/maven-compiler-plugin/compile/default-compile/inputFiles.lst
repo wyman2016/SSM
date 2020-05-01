@@ -1,6 +1,8 @@
 /Users/azao/Documents/JavaRepo/admin2/ssm_service/src/main/java/com/admin/ssm/service/IUsersService.java
+/Users/azao/Documents/JavaRepo/admin2/ssm_service/src/main/java/com/admin/ssm/service/IUserService.java
 /Users/azao/Documents/JavaRepo/admin2/ssm_service/src/main/java/com/admin/ssm/service/impl/ProductServiceImpl.java
 /Users/azao/Documents/JavaRepo/admin2/ssm_service/src/main/java/com/admin/ssm/service/impl/IOrderServiceImpl.java
+/Users/azao/Documents/JavaRepo/admin2/ssm_service/src/main/java/com/admin/ssm/service/impl/IUserServiceImpl.java
 /Users/azao/Documents/JavaRepo/admin2/ssm_service/src/main/java/com/admin/ssm/service/impl/UserServiceIml.java
 /Users/azao/Documents/JavaRepo/admin2/ssm_service/src/main/java/com/admin/ssm/service/IProductService.java
 /Users/azao/Documents/JavaRepo/admin2/ssm_service/src/main/java/com/admin/ssm/service/IOrderService.java

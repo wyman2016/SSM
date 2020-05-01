@@ -1,11 +1,10 @@
 package com.admin.ssm.dao;
 
 import com.admin.ssm.domain.UserInfo;
-import org.apache.ibatis.annotations.Many;
-import org.apache.ibatis.annotations.Result;
-import org.apache.ibatis.annotations.Results;
-import org.apache.ibatis.annotations.Select;
+import org.apache.ibatis.annotations.*;
 import org.springframework.stereotype.Component;
+
+import java.util.List;
 
 @Component
 public interface UserDao {
@@ -22,5 +21,24 @@ public interface UserDao {
     })
     UserInfo findUserByUsername(String username) throws Exception;
 
+
+    @Select("select *from users")
+    List<UserInfo> findAll() throws Exception;
+
+    @Insert("insert into users (email,username,password,phoneNum,status) values(#{email},#{username},#{password}," +
+            "#{phoneNum},#{status})")
+    void saveUser(UserInfo userInfo) throws Exception;
+
+    @Select("select *from users where id=#{id}")
+    @Results({
+            @Result(id = true, property = "id", column = "id"),
+            @Result(property = "username", column = "username"),
+            @Result(property = "email", column = "email"),
+            @Result(property = "password", column = "password"),
+            @Result(property = "phoneNum", column = "phoneNum"),
+            @Result(property = "status", column = "status"),
+            @Result(property = "roles", column = "id", javaType = java.util.List.class, many = @Many(select = "com.admin.ssm.dao.IRoleDao.findRolesByUserId"))
+    })
+    UserInfo findUserById(String id) throws Exception;
 
 }
