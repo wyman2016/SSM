@@ -1,12 +1,12 @@
-/Users/pxb/Documents/JAVA /admin2/ssm_service/src/main/java/com/admin/ssm/service/IRoleService.java
-/Users/pxb/Documents/JAVA /admin2/ssm_service/src/main/java/com/admin/ssm/service/impl/IUserServiceImpl.java
-/Users/pxb/Documents/JAVA /admin2/ssm_service/src/main/java/com/admin/ssm/service/IPermissionService.java
-/Users/pxb/Documents/JAVA /admin2/ssm_service/src/main/java/com/admin/ssm/service/IUsersService.java
-/Users/pxb/Documents/JAVA /admin2/ssm_service/src/main/java/com/admin/ssm/service/impl/UserServiceIml.java
-/Users/pxb/Documents/JAVA /admin2/ssm_service/src/main/java/com/admin/ssm/service/impl/ProductServiceImpl.java
-/Users/pxb/Documents/JAVA /admin2/ssm_service/src/main/java/com/admin/ssm/service/IUserService.java
-/Users/pxb/Documents/JAVA /admin2/ssm_service/src/main/java/com/admin/ssm/service/IProductService.java
-/Users/pxb/Documents/JAVA /admin2/ssm_service/src/main/java/com/admin/ssm/service/impl/IRoleServiceImpl.java
-/Users/pxb/Documents/JAVA /admin2/ssm_service/src/main/java/com/admin/ssm/service/impl/IOrderServiceImpl.java
-/Users/pxb/Documents/JAVA /admin2/ssm_service/src/main/java/com/admin/ssm/service/IOrderService.java
-/Users/pxb/Documents/JAVA /admin2/ssm_service/src/main/java/com/admin/ssm/service/impl/IPermissionServiceImpl.java
+/Users/azao/Documents/JavaRepo/admin2/ssm_service/src/main/java/com/admin/ssm/service/IPermissionService.java
+/Users/azao/Documents/JavaRepo/admin2/ssm_service/src/main/java/com/admin/ssm/service/IUsersService.java
+/Users/azao/Documents/JavaRepo/admin2/ssm_service/src/main/java/com/admin/ssm/service/IUserService.java
+/Users/azao/Documents/JavaRepo/admin2/ssm_service/src/main/java/com/admin/ssm/service/impl/ProductServiceImpl.java
+/Users/azao/Documents/JavaRepo/admin2/ssm_service/src/main/java/com/admin/ssm/service/impl/IOrderServiceImpl.java
+/Users/azao/Documents/JavaRepo/admin2/ssm_service/src/main/java/com/admin/ssm/service/impl/IRoleServiceImpl.java
+/Users/azao/Documents/JavaRepo/admin2/ssm_service/src/main/java/com/admin/ssm/service/impl/IUserServiceImpl.java
+/Users/azao/Documents/JavaRepo/admin2/ssm_service/src/main/java/com/admin/ssm/service/impl/UserServiceIml.java
+/Users/azao/Documents/JavaRepo/admin2/ssm_service/src/main/java/com/admin/ssm/service/IProductService.java
+/Users/azao/Documents/JavaRepo/admin2/ssm_service/src/main/java/com/admin/ssm/service/IRoleService.java
+/Users/azao/Documents/JavaRepo/admin2/ssm_service/src/main/java/com/admin/ssm/service/impl/IPermissionServiceImpl.java
+/Users/azao/Documents/JavaRepo/admin2/ssm_service/src/main/java/com/admin/ssm/service/IOrderService.java
