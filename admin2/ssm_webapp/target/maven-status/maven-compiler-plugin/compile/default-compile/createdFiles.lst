@@ -1,3 +1,5 @@
 com/admin/ssm/controller/UserController.class
+com/admin/ssm/controller/PermissionController.class
 com/admin/ssm/controller/OrderController.class
+com/admin/ssm/controller/RoleController.class
 com/admin/ssm/controller/ProductController.class

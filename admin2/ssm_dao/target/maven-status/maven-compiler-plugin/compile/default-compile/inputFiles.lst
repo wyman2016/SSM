@@ -1,6 +1,7 @@
-/Users/azao/Documents/JavaRepo/admin2/ssm_dao/src/main/java/com/admin/ssm/dao/IRoleDao.java
-/Users/azao/Documents/JavaRepo/admin2/ssm_dao/src/main/java/com/admin/ssm/dao/MemberDao.java
-/Users/azao/Documents/JavaRepo/admin2/ssm_dao/src/main/java/com/admin/ssm/dao/OrderDao.java
-/Users/azao/Documents/JavaRepo/admin2/ssm_dao/src/main/java/com/admin/ssm/dao/ProductDao.java
-/Users/azao/Documents/JavaRepo/admin2/ssm_dao/src/main/java/com/admin/ssm/dao/UserDao.java
-/Users/azao/Documents/JavaRepo/admin2/ssm_dao/src/main/java/com/admin/ssm/dao/ITravellerDao.java
+/Users/pxb/Documents/JAVA /admin2/ssm_dao/src/main/java/com/admin/ssm/dao/UserDao.java
+/Users/pxb/Documents/JAVA /admin2/ssm_dao/src/main/java/com/admin/ssm/dao/OrderDao.java
+/Users/pxb/Documents/JAVA /admin2/ssm_dao/src/main/java/com/admin/ssm/dao/ProductDao.java
+/Users/pxb/Documents/JAVA /admin2/ssm_dao/src/main/java/com/admin/ssm/dao/MemberDao.java
+/Users/pxb/Documents/JAVA /admin2/ssm_dao/src/main/java/com/admin/ssm/dao/IPermissonDao.java
+/Users/pxb/Documents/JAVA /admin2/ssm_dao/src/main/java/com/admin/ssm/dao/ITravellerDao.java
+/Users/pxb/Documents/JAVA /admin2/ssm_dao/src/main/java/com/admin/ssm/dao/IRoleDao.java

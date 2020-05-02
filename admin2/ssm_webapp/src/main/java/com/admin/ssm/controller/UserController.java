@@ -46,6 +46,4 @@ public class UserController {
         return "redirect:findAll.do";
     }
 
-    findUserByIdAndAllRole.do?id=${user.id}
-
 }

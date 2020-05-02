@@ -1,8 +1,12 @@
+com/admin/ssm/service/impl/IRoleServiceImpl.class
 com/admin/ssm/service/IOrderService.class
 com/admin/ssm/service/impl/IOrderServiceImpl.class
+com/admin/ssm/service/IPermissionService.class
 com/admin/ssm/service/impl/IUserServiceImpl.class
+com/admin/ssm/service/IRoleService.class
 com/admin/ssm/service/impl/ProductServiceImpl.class
 com/admin/ssm/service/IUsersService.class
+com/admin/ssm/service/impl/IPermissionServiceImpl.class
 com/admin/ssm/service/IProductService.class
 com/admin/ssm/service/impl/UserServiceIml.class
 com/admin/ssm/service/IUserService.class
